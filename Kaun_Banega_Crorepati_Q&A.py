@@ -2,7 +2,7 @@
 # Use List data type to store the questions and their correct answers. 
 # Display the final amount the person is taking home after playing the game.
 
-= input("Enter your name for playing KBC: ")
+name = input("Enter your name for playing KBC: ")
 print("Welcome To KBC,", name)
 print("Let's Start the Quiz!")
 print("Answer carefully. Type A, B, C, or D as your answer.\n")
